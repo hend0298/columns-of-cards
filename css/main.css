@@ -1,8 +1,24 @@
 html {
   box-sizing: border-box;
+  color: #333;
   font-family: "Open Sans", sans-serif;
+  line-height: 1.5;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
+}
+
+a {
+  color: #333;
+  text-decoration: none;
+}
+
+li {
+  border:
+  list-style: none;
+}
+
+img {
+  width: 100px;
 }
