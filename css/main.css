@@ -15,10 +15,26 @@ a {
 }
 
 li {
-  border:
+  border: 2px solid #333;
   list-style: none;
 }
 
 img {
   width: 100px;
+}
+
+.quest {
+  background-color: #e2e2e2;
+}
+
+.knights {
+  background-color: #ccc;
+}
+
+.dragon {
+  background-color: #aaa;
+}
+
+.ships {
+  background-color: #999;
 }
